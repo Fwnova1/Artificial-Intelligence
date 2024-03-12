@@ -92,7 +92,6 @@ class SingleMemberSearch:
             self.trials = 1
             self.result = working_candidate.variable_values
             self.solved = True
-
         # PS AppendToOpenList(working_candidate)
         self.open_list.append(working_candidate)
 

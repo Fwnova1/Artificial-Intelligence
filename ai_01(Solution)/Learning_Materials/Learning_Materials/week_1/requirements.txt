@@ -1,8 +1,0 @@
-python-aiml
-numpy
-matplotlib
-scikit-learn
-jupyter
-IPython
-ipykernel
-ipywidgets
